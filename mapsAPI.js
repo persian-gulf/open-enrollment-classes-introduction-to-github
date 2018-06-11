@@ -16,7 +16,7 @@ window.eqfeed_callback = function(data) {
       zoom: 2,
       minZoom: 2,
       center: new gm.LatLng(10, 15),
-      mapTypeId: 'terrain',
+      mapTypeId: 'roadmap',
       //disableDefaultUI: true,
       mapTypeControl: false,
       panControl: false,
